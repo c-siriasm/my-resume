@@ -147,9 +147,7 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Images\c-martinez.jpg" />
-    <Content Include="Images\c-martinez2.png" />
-    <Content Include="Images\IMG-20210815-WA0014.jpg" />
+    <Content Include="Images\carlos-martinez.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />

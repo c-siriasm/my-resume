@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>D:\CSIRIAS\gitlab\c-sirias\dev.c-sirias.com\dev.c-sirias.com\bin\app.publish\</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\app.publish\</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
@@ -14,10 +14,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.dll">
-      <publishTime>08/15/2021 11:06:04</publishTime>
+      <publishTime>08/15/2021 15:19:08</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.pdb">
-      <publishTime>08/15/2021 11:06:04</publishTime>
+      <publishTime>08/15/2021 15:19:08</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>07/08/2020 21:52:58</publishTime>
@@ -331,6 +331,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Global.asax">
       <publishTime>08/14/2021 20:43:40</publishTime>
     </File>
+    <File Include="Images/carlos-martinez.png">
+      <publishTime>08/15/2021 15:10:44</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.bundle.js">
       <publishTime>08/14/2021 21:34:42</publishTime>
     </File>
@@ -407,7 +410,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/15/2021 10:46:00</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>08/15/2021 10:59:33</publishTime>
+      <publishTime>08/15/2021 15:18:46</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>08/14/2021 20:43:40</publishTime>
@@ -422,7 +425,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/14/2021 20:43:40</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/15/2021 00:15:11</publishTime>
+      <publishTime>08/15/2021 15:17:26</publishTime>
     </File>
   </ItemGroup>
 </Project>
