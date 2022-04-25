@@ -14,10 +14,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.dll">
-      <publishTime>08/15/2021 15:19:08</publishTime>
+      <publishTime>09/01/2021 17:26:46</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.pdb">
-      <publishTime>08/15/2021 15:19:08</publishTime>
+      <publishTime>09/01/2021 17:26:46</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>07/08/2020 21:52:58</publishTime>
@@ -334,6 +334,12 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Images/carlos-martinez.png">
       <publishTime>08/15/2021 15:10:44</publishTime>
     </File>
+    <File Include="Images/CASE.NET_C4122F40CE83.png">
+      <publishTime>09/01/2021 17:11:17</publishTime>
+    </File>
+    <File Include="Images/Google Activate - Cloud Computing.jpg">
+      <publishTime>09/01/2021 17:21:22</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.bundle.js">
       <publishTime>08/14/2021 21:34:42</publishTime>
     </File>
@@ -410,13 +416,16 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/15/2021 10:46:00</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>08/15/2021 15:18:46</publishTime>
+      <publishTime>08/15/2021 15:26:38</publishTime>
+    </File>
+    <File Include="Views/Resume/Index.cshtml">
+      <publishTime>09/01/2021 17:25:25</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>08/14/2021 20:43:40</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>08/15/2021 10:47:29</publishTime>
+      <publishTime>09/01/2021 17:26:23</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>08/14/2021 20:43:40</publishTime>
