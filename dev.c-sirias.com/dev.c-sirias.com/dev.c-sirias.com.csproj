@@ -148,6 +148,7 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\azure-fundamentals.png" />
     <Content Include="Images\carlos-martinez.png" />
     <Content Include="Images\CASE.NET_C4122F40CE83.png" />
     <Content Include="Images\Google Activate - Cloud Computing.jpg" />

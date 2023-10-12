@@ -5,6 +5,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-10-12T16:37:41.5757669Z;True|2023-10-12T10:30:47.8411771-06:00;</History>
+    <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
@@ -14,10 +16,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.dll">
-      <publishTime>09/01/2021 17:26:46</publishTime>
+      <publishTime>10/12/2023 10:37:40</publishTime>
     </File>
     <File Include="bin/dev.c-sirias.com.pdb">
-      <publishTime>09/01/2021 17:26:46</publishTime>
+      <publishTime>10/12/2023 10:37:40</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>07/08/2020 21:52:58</publishTime>
@@ -331,6 +333,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Global.asax">
       <publishTime>08/14/2021 20:43:40</publishTime>
     </File>
+    <File Include="Images/azure-fundamentals.png">
+      <publishTime>10/12/2023 10:22:00</publishTime>
+    </File>
     <File Include="Images/carlos-martinez.png">
       <publishTime>08/15/2021 15:10:44</publishTime>
     </File>
@@ -419,13 +424,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/15/2021 15:26:38</publishTime>
     </File>
     <File Include="Views/Resume/Index.cshtml">
-      <publishTime>09/01/2021 17:25:25</publishTime>
+      <publishTime>10/12/2023 10:37:23</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>08/14/2021 20:43:40</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>09/01/2021 17:26:23</publishTime>
+      <publishTime>10/12/2023 09:58:26</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>08/14/2021 20:43:40</publishTime>

@@ -151,8 +151,8 @@ D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\System.Web.Web
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\System.Web.WebPages.Deployment.xml
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\System.Web.WebPages.Razor.xml
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\bin\Antlr3.Runtime.pdb
-D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.csprojAssemblyReference.cache
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.csproj.CoreCompileInputs.cache
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.csproj.CopyComplete
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.dll
 D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.pdb
+D:\CSIRIAS\github\my-resume\dev.c-sirias.com\dev.c-sirias.com\obj\Release\dev.c-sirias.com.csproj.AssemblyReference.cache
